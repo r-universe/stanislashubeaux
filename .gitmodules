@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SurvRegCensCov"]
+	path = SurvRegCensCov
+	url = https://github.com/cran/SurvRegCensCov
+	shallow = true
+	registered = true
